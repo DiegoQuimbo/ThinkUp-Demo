@@ -1,0 +1,24 @@
+/* 
+  UILocalizable.strings
+  DemoThinkUp
+
+  Created by Diego Quimbo on 4/2/21.
+  
+*/
+
+// SignUp View
+"SIGNUP_TITLE" = "Sign Up";
+"NAME_TEXT" = "Name";
+"EMAIL_TEXT" = "Email";
+"BIRTH_TEXT" = "Birth Date";
+"CONFIRM_BUTTON" = "CONFIRM";
+"NAME_ERROR_TEXT" = "The name can not be empty";
+"EMAIL_ERROR_TEXT" = "The email has wrong format";
+"BIRTH_ERROR_TEXT" = "The birth can not be empty";
+
+// Map View
+"TEMPERATURE_TITLE" = "Temperature:";
+"HUMIDITY_TITLE" = "Humidity:";
+"CLOUD_TITLE" = "Cloudiness:";
+"WIND_TITLE" = "Wind:";
+
